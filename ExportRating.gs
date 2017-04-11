@@ -1,4 +1,4 @@
-function ExportWinRatio() {
+function ExportRating() {
   //Logger.clear();
 
   Logger.log('aaaa');
